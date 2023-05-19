@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'SHEN-Lifeng-8de32c1c8bb84fd7bbfaf6a09a299165',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://lshenae.notion.site/SHEN-Lifeng-8de32c1c8bb84fd7bbfaf6a09a299165',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
