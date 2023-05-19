@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Hello World',
   domain: 'https://lshenae.notion.site/SHEN-Lifeng-8de32c1c8bb84fd7bbfaf6a09a299165',
-  author: 'Travis Fischer',
+  author: 'Researcher Lifeng',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Welcome to my world!',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
