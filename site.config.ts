@@ -56,11 +56,11 @@ export default siteConfig({
      {
        title: 'HOME',
        pageId: 'SHEN-Lifeng-8de32c1c8bb84fd7bbfaf6a09a299165'
-     },
-     {
-       title: 'READ',
-       pageId: 'Read-d9e82d2b5411492288a2c3c4ad8ca0ba',
-       domain: 'https://lshenae.notion.site/Read-d9e82d2b5411492288a2c3c4ad8ca0ba'
      }
+  //   {
+  //     title: 'READ',
+  //     pageId: 'Read-d9e82d2b5411492288a2c3c4ad8ca0ba',
+  //     domain: 'https://lshenae.notion.site/Read-d9e82d2b5411492288a2c3c4ad8ca0ba'
+  //   }
      ]
 })
