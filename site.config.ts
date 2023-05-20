@@ -59,7 +59,8 @@ export default siteConfig({
      },
      {
        title: 'READ',
-       pageId: 'Read-d9e82d2b5411492288a2c3c4ad8ca0ba'
+       pageId: 'Read-d9e82d2b5411492288a2c3c4ad8ca0ba',
+       domain: 'https://lshenae.notion.site/Read-d9e82d2b5411492288a2c3c4ad8ca0ba'
      }
      ]
 })
