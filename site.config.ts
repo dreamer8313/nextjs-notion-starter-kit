@@ -3,7 +3,6 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   rootNotionPageId: '4937ffa8a8454f72bfebef787ca9b388',
-
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
@@ -56,11 +55,10 @@ export default siteConfig({
      {
        title: 'HOME',
        pageId: '4937ffa8a8454f72bfebef787ca9b388'
+     },
+     {
+       title: 'READ',
+       pageId: 'SHEN-LIFENG-8de32c1c8bb84fd7bbfaf6a09a299165',
      }
-  //   {
-  //     title: 'READ',
-  //     pageId: 'Read-d9e82d2b5411492288a2c3c4ad8ca0ba',
-  //     domain: 'https://lshenae.notion.site/Read-d9e82d2b5411492288a2c3c4ad8ca0ba'
-  //   }
      ]
 })
