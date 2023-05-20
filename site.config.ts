@@ -53,12 +53,16 @@ export default siteConfig({
      navigationStyle: 'custom',
      navigationLinks: [
      {
-       title: 'HOME',
+       title: 'Home',
        pageId: 'SHEN-LIFENG-8de32c1c8bb84fd7bbfaf6a09a299165'
      },
      {
        title: 'Publication',
        pageId: 'Publication-06cfd7f7eacc43a38ad8951ae8b433c9',
+     },
+     {
+       title: 'Links',
+       pageId: 'Links-21521e7ca9fa430481cb823b36f8a431'
      }
      ]
 })
