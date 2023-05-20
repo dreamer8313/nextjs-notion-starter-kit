@@ -54,7 +54,7 @@ export default siteConfig({
      navigationStyle: 'custom',
      navigationLinks: [
      {
-       title: 'About',
+       title: 'HOME',
        pageId: 'SHEN-Lifeng-8de32c1c8bb84fd7bbfaf6a09a299165'
      },
      {
