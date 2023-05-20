@@ -28,7 +28,7 @@ export default siteConfig({
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.75,
+  defaultPageCoverPosition: 0.85,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
@@ -50,8 +50,8 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
+  // navigationStyle: 'default'
+  navigationStyle: 'custom',
   // navigationLinks: [
   //   {
   //     title: 'About',
