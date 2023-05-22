@@ -57,8 +57,8 @@ export default siteConfig({
        pageId: 'SHEN-LIFENG-8de32c1c8bb84fd7bbfaf6a09a299165'
      },
      {
-       title: 'Papers',
-       pageId: 'Papers-06cfd7f7eacc43a38ad8951ae8b433c9',
+       title: 'Publication',
+       pageId: 'Publication-06cfd7f7eacc43a38ad8951ae8b433c9',
      },
      {
        title: 'Links',
