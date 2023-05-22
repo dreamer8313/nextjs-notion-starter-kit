@@ -21,9 +21,4 @@ module.exports = withBundleAnalyzer({
   }
 })
 
-module.exports = {
-  reactStrictMode: true,
-  images: {
-    domains: ['https://www.lshenae.cn/'], //make it 'your-domain.com'
-  },
-};
+
