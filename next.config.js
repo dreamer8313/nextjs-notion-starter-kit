@@ -20,3 +20,10 @@ module.exports = withBundleAnalyzer({
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
   }
 })
+
+module.exports = {
+  reactStrictMode: true,
+  images: {
+    domains: ['https://www.lshenae.cn/'], //make it 'your-domain.com'
+  },
+};
